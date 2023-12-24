@@ -2,7 +2,7 @@
 
 I'm Naor, a serverless and TypeScript enthusiast, from Israel.
 
-Currently working at [Finaloop](https://finaloop.com) as a full stack co-builder.
+Currently working at [Grain](https://www.grainfinance.co/) as a full stack co-builder.
 
 I ❤️ exploring languages, music, fitness and being socially active.
 
