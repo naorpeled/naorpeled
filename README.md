@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Naor, a serverless and TypeScript enthusiast, from Israel.
+I'm Naor, an AI, serverless and TypeScript enthusiast, from Israel.
 
 Currently working at [Empathy](https://www.empathy.com/) as a full stack software engineer.
 
