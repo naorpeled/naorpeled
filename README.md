@@ -2,7 +2,7 @@
 
 I'm Naor, an AI, serverless and TypeScript enthusiast, from Israel.
 
-Currently working at [Empathy](https://www.empathy.com/) as a full stack software engineer.
+Currently working at TBA as a full stack software engineer.
 
 I ❤️ exploring languages, music, fitness and being socially active.
 
