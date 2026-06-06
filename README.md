@@ -2,7 +2,7 @@
 
 I'm Naor, an AI, serverless and TypeScript enthusiast, from Israel.
 
-Currently working at [groundcover](https://groundcover.com) as a full stack software engineer.
+Currently working at [groundcover](https://groundcover.com) as a software engineer in the AI team.
 
 I ❤️ exploring languages, music, fitness and being socially active.
 
